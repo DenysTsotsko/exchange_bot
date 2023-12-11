@@ -1,0 +1,2 @@
+TOKEN_API = "6006952170:AAGPQV_6hUMVcIk7WQnBu54dBhd27H8Mvd4"
+LINK = "https://finance.i.ua/"
